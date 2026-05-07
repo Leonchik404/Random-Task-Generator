@@ -1,6 +1,6 @@
 # Random Task Generator
 
-**Author:** [Ваше Имя Фамилия]
+**Author:** [Lysenko Vladislav]
 **Description:** A console application that generates random tasks using OOP principles and the Factory Design Pattern. 
 
 ### Features
