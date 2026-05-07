@@ -2,5 +2,3 @@ __pycache__/
 history.json
 .idea/
 .vscode/
-git add .
-git commit -m "Initial commit: Added MVC structure and Factory pattern"
