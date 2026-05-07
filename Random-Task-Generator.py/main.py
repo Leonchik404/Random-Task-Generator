@@ -22,7 +22,7 @@ def main():
             print("\nFiltered results:")
             for r in results: print(r.get_details())
             
-        elif choice == choice == "4":
+        elif choice == "4":
             print("Goodbye!")
             break
         else:
